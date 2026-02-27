@@ -29,18 +29,56 @@ Especializado en la administración, optimización y hardening de bases de datos
 | **DevOps & OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | **Seguridad** | ![Hardening](https://img.shields.io/badge/-Database%20Hardening-red?style=flat) ![IAM](https://img.shields.io/badge/-Access%20Control-lightgrey?style=flat) |
 
----
-
-### 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CR0NYM3X&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR0NYM3X&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
+ 
 ---
 
 ### 📂 Proyectos Destacados
 - **[POSTGRESQL](https://github.com/CR0NYM3X/POSTGRESQL):** Repositorio central de conocimientos, configuraciones de alta disponibilidad y manejo de extensiones.
 - **Arquitecturas de Datos:** Diseños de implementación y seguridad en entornos productivos.
 
+
+## 🛠️ PostgreSQL Toolbox & Security Frameworks
+
+He desarrollado una serie de herramientas y frameworks diseñados para extender las capacidades nativas de PostgreSQL, enfocándome en seguridad (Hardening), auditoría y observabilidad.
+
+### ✅ Proyectos Finalizados (Production Ready)
+
+#### 🛡️ Seguridad y Hardening
+| Proyecto | Descripción |
+| :--- | :--- |
+| [**pg_auto_hardening**](https://github.com/CR0NYM3X/pg_auto_hardening) | Automatización integral de políticas de seguridad en `postgresql.conf`. |
+| [**pgTLSCheck**](https://github.com/CR0NYM3X/pgTLSCheck) | Tool de Pentesting para auditoría de capas TLS/SSL en servidores PostgreSQL. |
+| [**pg_hash_generate**](https://github.com/CR0NYM3X/pg_hash_generate) | Generador de hashes SCRAM-SHA-256 y MD5 mediante `pgcrypto`. |
+| [**pg_auto_revoke_exec**](https://github.com/CR0NYM3X/pg_auto_revoke_exec) | Control de acceso automático (Trigger) para revocar permisos EXECUTE al rol PUBLIC. |
+| [**pgTLSinfo**](https://github.com/CR0NYM3X/pgTLSinfo) | Inspección técnica detallada de certificados X.509 y entornos SSL activos. |
+
+#### 📊 Auditoría y Observabilidad
+| Proyecto | Descripción |
+| :--- | :--- |
+| [**pgAuditSimple**](https://github.com/CR0NYM3X/pgAuditSimple) | Auditoría DML y DDL simplificada en una sola línea de ejecución. |
+| [**pg_stat_monitor**](https://github.com/CR0NYM3X/pg_stat_monitor) | Dashboard que fusiona `pg_stat_activity` con métricas del Sistema Operativo en tiempo real. |
+| [**pg_logify**](https://github.com/CR0NYM3X/pg_logify) | Framework avanzado de logging y auditoría con soporte para colores ANSI y persistencia. |
+| [**pg_logSearcher**](https://github.com/CR0NYM3X/pg_logSearcher) | Herramienta Bash para búsqueda forense en logs comprimidos de PostgreSQL. |
+
+#### ⚡ Utilidades de Diagnóstico y UX
+| Proyecto | Descripción |
+| :--- | :--- |
+| [**pg_tcpcheck**](https://github.com/CR0NYM3X/pg_tcpcheck) | Diagnóstico de red y disponibilidad de puertos TCP directamente desde SQL. |
+| [**pg_pie**](https://github.com/CR0NYM3X/pg_pie) | Generación de gráficos circulares y medidores de porcentaje dentro de `psql`. |
+| [**pg_progress**](https://github.com/CR0NYM3X/pg_progress) | Renderizado de barras de progreso dinámicas para scripts en PL/pgSQL. |
+
+---
+
+### 🚧 En Desarrollo  
+
+Mi enfoque actual está en la creación de herramientas pedagógicas y de gestión avanzada:
+
+* **⚡ [pg_background_mgr](https://github.com/CR0NYM3X/pg_background_mgr):** Gestión eficiente de procesos en segundo plano.
+* **🧩 [pg_setting_visual](https://github.com/CR0NYM3X/pg_setting_visual):** Plataforma visual de aprendizaje sobre parámetros de configuración y sus dependencias.
+* **🎮 [pg_architecture_game](https://github.com/CR0NYM3X/pg_architecture_game):** Gamificación del aprendizaje de la arquitectura interna de PostgreSQL.
+* **🔗 pg_dblinkv2:** Evolución de dblink con gestión de credenciales cifradas y perfiles de conexión.
+* **📦 Otros:** [pg_partition_logic](https://github.com/CR0NYM3X/pg_partition_logic), [pg_appkiller](https://github.com/CR0NYM3X/pg_appkiller), [pgVaultLog](https://github.com/CR0NYM3X/pgVaultLog), [pg_privileges](https://github.com/CR0NYM3X/pg_privileges) , [pg_prttb](https://github.com/CR0NYM3X/pg_prttb), [SQLMeta-Tracker](https://github.com/CR0NYM3X/SQLMeta-Tracker)
+
+
+ 
  
