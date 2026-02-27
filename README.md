@@ -43,11 +43,4 @@ Especializado en la administración, optimización y hardening de bases de datos
 - **[POSTGRESQL](https://github.com/CR0NYM3X/POSTGRESQL):** Repositorio central de conocimientos, configuraciones de alta disponibilidad y manejo de extensiones.
 - **Arquitecturas de Datos:** Diseños de implementación y seguridad en entornos productivos.
 
----
-
-### 📫 Contacto
-<p align="left">
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
  
