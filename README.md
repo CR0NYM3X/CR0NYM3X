@@ -66,14 +66,13 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_tcpcheck**](https://github.com/CR0NYM3X/pg_tcpcheck) | Diagnóstico de red y disponibilidad de puertos TCP directamente desde SQL. |
 | [**pg_pie**](https://github.com/CR0NYM3X/pg_pie) | Generación de gráficos circulares y medidores de porcentaje dentro de `psql`. |
 | [**pg_progress**](https://github.com/CR0NYM3X/pg_progress) | Renderizado de barras de progreso dinámicas para scripts en PL/pgSQL. |
-
+| [**pg_bck_orchestrator**](https://github.com/CR0NYM3X/pg_bck_orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 ---
 
 ### 🚧 En Desarrollo  
 
 Mi enfoque actual está en la creación de herramientas pedagógicas y de gestión avanzada:
 
-* **⚡ [pg_background_mgr](https://github.com/CR0NYM3X/pg_background_mgr):** Gestión eficiente de procesos en segundo plano.
 * **🧩 [pg_setting_visual](https://github.com/CR0NYM3X/pg_setting_visual):** Plataforma visual de aprendizaje sobre parámetros de configuración y sus dependencias.
 * **🎮 [pg_architecture_game](https://github.com/CR0NYM3X/pg_architecture_game):** Gamificación del aprendizaje de la arquitectura interna de PostgreSQL.
 * **🔗 pg_dblinkv2:** Evolución de dblink con gestión de credenciales cifradas y perfiles de conexión.
