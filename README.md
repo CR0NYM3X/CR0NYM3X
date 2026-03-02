@@ -52,6 +52,13 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_auto_revoke_exec**](https://github.com/CR0NYM3X/pg_auto_revoke_exec) | Control de acceso automático (Trigger) para revocar permisos EXECUTE al rol PUBLIC. |
 | [**pgTLSinfo**](https://github.com/CR0NYM3X/pgTLSinfo) | Inspección técnica detallada de certificados X.509 y entornos SSL activos. |
 
+
+#### Usuarios
+| Proyecto | Descripción |
+| :--- | :--- |
+| [**revoke_user_global**](https://github.com/CR0NYM3X/revoke_user_global/tree/main) | Revokale todos los permisos a un usuario y eliminalo de manera automatica. |
+
+
 #### 📊 Auditoría y Observabilidad
 | Proyecto | Descripción |
 | :--- | :--- |
