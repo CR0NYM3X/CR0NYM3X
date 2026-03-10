@@ -51,6 +51,8 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_hash_generate**](https://github.com/CR0NYM3X/pg_hash_generate) | Generador de hashes SCRAM-SHA-256 y MD5 mediante `pgcrypto`. |
 | [**pg_auto_revoke_exec**](https://github.com/CR0NYM3X/pg_auto_revoke_exec) | Control de acceso automático (Trigger) para revocar permisos EXECUTE al rol PUBLIC. |
 | [**pgTLSinfo**](https://github.com/CR0NYM3X/pgTLSinfo) | Inspección técnica detallada de certificados X.509 y entornos SSL activos. |
+| [**pg_bruteforce**](https://github.com/CR0NYM3X/pg_bruteforce) | es un script ligero en Bash diseñado para realizar pruebas de fuerza bruta sobre PostgreSQL. |
+
 
 
 #### Usuarios
