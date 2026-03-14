@@ -82,7 +82,7 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 
 Mi enfoque actual está en la creación de herramientas pedagógicas y de gestión avanzada:
 
-* **🧩 [pg_setting_visual](https://github.com/CR0NYM3X/pg_setting_visual):** Plataforma visual de aprendizaje sobre parámetros de configuración y sus dependencias.
+* **🧩 [pg_setting_visual](https://github.com/CR0NYM3X/pg_setting_visual):** Plataforma visual de aprendizaje sobre parámetros de configuración y sus dependencias, este es un mapa que te muestra que si mueves un parametro, como debes ajustar otro y cuales estan conectados o pueden tener efectos secundarios.
 * **🎮 [pg_architecture_game](https://github.com/CR0NYM3X/pg_architecture_game):** Gamificación del aprendizaje de la arquitectura interna de PostgreSQL.
 * **🔗 pg_dblinkv2:** Evolución de dblink con gestión de credenciales cifradas y perfiles de conexión.
 * **📦 Otros:** [pg_partition_logic](https://github.com/CR0NYM3X/pg_partition_logic), [pg_appkiller](https://github.com/CR0NYM3X/pg_appkiller), [pgVaultLog](https://github.com/CR0NYM3X/pgVaultLog), [pg_privileges](https://github.com/CR0NYM3X/pg_privileges) , [pg_prttb](https://github.com/CR0NYM3X/pg_prttb), [SQLMeta-Tracker](https://github.com/CR0NYM3X/SQLMeta-Tracker)
