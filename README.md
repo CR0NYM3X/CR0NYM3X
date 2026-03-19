@@ -52,6 +52,7 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_auto_revoke_exec**](https://github.com/CR0NYM3X/pg_auto_revoke_exec) | Control de acceso automático (Trigger) para revocar permisos EXECUTE al rol PUBLIC. |
 | [**pgTLSinfo**](https://github.com/CR0NYM3X/pgTLSinfo) | Inspección técnica detallada de certificados X.509 y entornos SSL activos. |
 | [**pg_bruteforce**](https://github.com/CR0NYM3X/pg_bruteforce) | es un script ligero en Bash diseñado para realizar pruebas de fuerza bruta sobre PostgreSQL. |
+| [**pg_dos**](https://github.com/CR0NYM3X/pg_dos) | Simula un ataque de DoS para PostgreSQL esto para validar la seguridad del servidor y temas de auditoria |
 
 
 
