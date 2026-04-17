@@ -53,7 +53,7 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pgTLSinfo**](https://github.com/CR0NYM3X/pgTLSinfo) | Inspección técnica detallada de certificados X.509 y entornos SSL activos. |
 | [**pg_bruteforce**](https://github.com/CR0NYM3X/pg_bruteforce) | es un script ligero en Bash diseñado para realizar pruebas de fuerza bruta sobre PostgreSQL. |
 | [**pg_dos**](https://github.com/CR0NYM3X/pg_dos) | Simula un ataque de DoS para PostgreSQL esto para validar la seguridad del servidor y temas de auditoria |
-| [**pg_app_check**](https://github.com/CR0NYM3X/pg_session_blocker) | Herramienta para el bloqueo selectivo de aplicaciones, que impide conexiones no autorizadas de procesos específicos en el sistema |
+| [**pg_session_blocker**](https://github.com/CR0NYM3X/pg_session_blocker) | Herramienta para el bloqueo selectivo de aplicaciones, que impide conexiones no autorizadas de procesos específicos en el sistema |
 
 
 
