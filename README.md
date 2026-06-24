@@ -80,7 +80,7 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_pie**](https://github.com/CR0NYM3X/pg_pie) | Generación de gráficos circulares y medidores de porcentaje dentro de `psql`. |
 | [**pg_progress**](https://github.com/CR0NYM3X/pg_progress) | Renderizado de barras de progreso dinámicas para scripts en PL/pgSQL. |
 | [**pg_bck_orchestrator**](https://github.com/CR0NYM3X/pg_bck_orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
-| [**pg-async-orchestrator**](https://github.com/CR0NYM3X/pg-async-orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
+| [**pg-bg-orchestrator**](https://github.com/CR0NYM3X/pg-async-orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 
 ---
 
