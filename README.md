@@ -50,10 +50,12 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pgTLSCheck**](https://github.com/CR0NYM3X/pgTLSCheck) | Tool de Pentesting para auditoría de capas TLS/SSL en servidores PostgreSQL. |
 | [**pg_hash_generate**](https://github.com/CR0NYM3X/pg_hash_generate) | Generador de hashes SCRAM-SHA-256 y MD5 mediante `pgcrypto`. |
 | [**pg_auto_revoke_exec**](https://github.com/CR0NYM3X/pg_auto_revoke_exec) | Control de acceso automático (Trigger) para revocar permisos EXECUTE al rol PUBLIC. |
+| [**pg-public-lockdown**](https://github.com/CR0NYM3X/pg-public-lockdown) | Heramienta que ejecuta REVOKE al role public en todas las base de datos |
 | [**pgTLSinfo**](https://github.com/CR0NYM3X/pgTLSinfo) | Inspección técnica detallada de certificados X.509 y entornos SSL activos. |
 | [**pg_bruteforce**](https://github.com/CR0NYM3X/pg_bruteforce) | es un script ligero en Bash diseñado para realizar pruebas de fuerza bruta sobre PostgreSQL. |
 | [**pg_dos**](https://github.com/CR0NYM3X/pg_dos) | Simula un ataque de DoS para PostgreSQL esto para validar la seguridad del servidor y temas de auditoria |
 | [**pg_session_blocker**](https://github.com/CR0NYM3X/pg_session_blocker) | Herramienta para el bloqueo selectivo de aplicaciones, que impide conexiones no autorizadas de procesos específicos en el sistema |
+
 
 
 
@@ -81,7 +83,7 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_progress**](https://github.com/CR0NYM3X/pg_progress) | Renderizado de barras de progreso dinámicas para scripts en PL/pgSQL. |
 | [**pg_bck_orchestrator**](https://github.com/CR0NYM3X/pg_bck_orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 | [**pg-bg-orchestrator**](https://github.com/CR0NYM3X/pg-bg-orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
-
+| [**pg-multidb-exec**](https://github.com/CR0NYM3X/pg-multidb-exec) | Ejecuta comandos en todas las bases de datos |
 ---
 
 ### 🚧 En Desarrollo  
