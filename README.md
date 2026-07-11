@@ -84,6 +84,10 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_bck_orchestrator**](https://github.com/CR0NYM3X/pg_bck_orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 | [**pg-bg-orchestrator**](https://github.com/CR0NYM3X/pg-bg-orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 | [**pg-multidb-exec**](https://github.com/CR0NYM3X/pg-multidb-exec) | Ejecuta comandos en todas las bases de datos |
+| [**pg_prttb**](https://github.com/CR0NYM3X/pg_prttb) |  Crea particiones de forma rápida y sencilla sin programas externos |
+
+
+
 ---
 
 ### 🚧 En Desarrollo  
@@ -93,7 +97,7 @@ Mi enfoque actual está en la creación de herramientas pedagógicas y de gesti�
 * **🧩 [pg_setting_visual](https://github.com/CR0NYM3X/pg_setting_visual):** Plataforma visual de aprendizaje sobre parámetros de configuración y sus dependencias, este es un mapa que te muestra que si mueves un parametro, como debes ajustar otro y cuales estan conectados o pueden tener efectos secundarios.
 * **🎮 [pg_architecture_game](https://github.com/CR0NYM3X/pg_architecture_game):** Gamificación del aprendizaje de la arquitectura interna de PostgreSQL.
 * **🔗 pg_dblinkv2:** Evolución de dblink con gestión de credenciales cifradas y perfiles de conexión.
-* **📦 Otros:** [pg_partition_logic](https://github.com/CR0NYM3X/pg_partition_logic), [pg_appkiller](https://github.com/CR0NYM3X/pg_appkiller), [pgVaultLog](https://github.com/CR0NYM3X/pgVaultLog), [pg_privileges](https://github.com/CR0NYM3X/pg_privileges) , [pg_prttb](https://github.com/CR0NYM3X/pg_prttb), [SQLMeta-Tracker](https://github.com/CR0NYM3X/SQLMeta-Tracker)
+* **📦 Otros:** [pg_partition_logic](https://github.com/CR0NYM3X/pg_partition_logic), [pg_appkiller](https://github.com/CR0NYM3X/pg_appkiller), [pgVaultLog](https://github.com/CR0NYM3X/pgVaultLog), [pg_privileges](https://github.com/CR0NYM3X/pg_privileges) , [SQLMeta-Tracker](https://github.com/CR0NYM3X/SQLMeta-Tracker)
 
 
  
