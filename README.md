@@ -84,7 +84,7 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_bck_orchestrator**](https://github.com/CR0NYM3X/pg_bck_orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 | [**pg-bg-orchestrator**](https://github.com/CR0NYM3X/pg-bg-orchestrator) | Orquestador para la extensión pg_background  para la gestión y ejecución de procesos  en PostgreSQL. |
 | [**pg-multidb-exec**](https://github.com/CR0NYM3X/pg-multidb-exec) | Ejecuta comandos en todas las bases de datos |
-| [**pg_createuser**](https://github.com/CR0NYM3X/pg-multidb-exec) | Crea usuarios de forma rápida  |
+| [**pg_createuser**](https://github.com/CR0NYM3X/pg_createuser) | Crea usuarios de forma rápida  |
 | [**pg_prttb**](https://github.com/CR0NYM3X/pg_prttb) |  Crea particiones de forma rápida y sencilla sin programas externos |
 
 
