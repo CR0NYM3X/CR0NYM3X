@@ -87,6 +87,8 @@ He desarrollado una serie de herramientas y frameworks diseñados para extender 
 | [**pg_createuser**](https://github.com/CR0NYM3X/pg_createuser) | Crea usuarios de forma rápida  |
 | [**pg_passwd_match**](https://github.com/CR0NYM3X/pg_passwd_match) | homologar las contraseñas en servidores destinos, tomando como referencia un servidor origen |
 | [**pg_prttb**](https://github.com/CR0NYM3X/pg_prttb) |  Crea particiones de forma rápida y sencilla sin programas externos |
+| [**pg-csql-maint**](https://github.com/CR0NYM3X/pg-csql-maint) |  Realiza mantenimientos multiproceso (Analyze,Vacuum, vacuum full y Reindex) |
+
 
 
 
